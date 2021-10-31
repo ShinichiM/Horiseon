@@ -10,5 +10,5 @@ Previous development teams input overused and repetitive CSS Styling and was imp
 HTM alt tags within the img containers were added, as well as proper functioning Header links. Alt tags and IDs were included during the refactoring process. 
 
 ![image](https://user-images.githubusercontent.com/62361626/139597276-bc42b6e5-ef5d-49a3-8bac-473bb3c01adb.png)
-![Uploading image.png…]()
+
 
